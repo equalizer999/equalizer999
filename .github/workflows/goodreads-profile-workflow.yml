@@ -15,10 +15,10 @@ jobs:
         with:
           goodreads_user_id: "139684603"
           shelf: "currently-reading"
-          comment_tag_name:	"GOODREADS-READING-LIST"
+          comment_tag_name: "GOODREADS-READING-LIST"
       - uses: zwacky/goodreads-profile-workflow@main
         with:
           goodreads_user_id: "139684603"
           shelf: "to-read,in-house"
-          comment_tag_name:	"GOODREADS-SHELF-LIST"
+          comment_tag_name: "GOODREADS-SHELF-LIST"
           sort_by_field: ">user_rating,>user_date_added"
