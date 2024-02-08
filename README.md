@@ -9,5 +9,12 @@
 
 ---
 
+### Books I'm currently reading
+
+<!-- GOODREADS-LIST:START -->
+<!-- GOODREADS-LIST:END -->
+
+---
+
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=equalizer999&show_icons=true&theme=dark)
 
