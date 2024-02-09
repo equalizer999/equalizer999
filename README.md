@@ -28,7 +28,7 @@
 - [Snow Crash](https://www.goodreads.com/review/show/6144282536?utm_medium=api&utm_source=rss) by Neal Stephenson (⭐️4.03)
 - [A Thousand Brains: A New Theory of Intelligence](https://www.goodreads.com/review/show/5174464204?utm_medium=api&utm_source=rss) by Jeff Hawkins (⭐️4.01)
 - [Ghost in the Wires: My Adventures as the World's Most Wanted Hacker](https://www.goodreads.com/review/show/6144284199?utm_medium=api&utm_source=rss) by Kevin D. Mitnick (⭐️3.92)
-- [The Psychology of Money](https://www.goodreads.com/review/show/6144284951?utm_medium=api&utm_source=rss) by Morgan Housel (⭐️4.33)
+- [The Psychology of Money](https://www.goodreads.com/review/show/6144284951?utm_medium=api&utm_source=rss) by Morgan Housel (⭐️4.32)
 - [How to Talk to Anyone: 92 Little Tricks for Big Success in Relationships](https://www.goodreads.com/review/show/6144286850?utm_medium=api&utm_source=rss) by Leil Lowndes (⭐️3.72)
 - [ANWB Cursusboek Klein Vaarbewijs I+II](https://www.goodreads.com/review/show/6144290823?utm_medium=api&utm_source=rss) by ANWB (⭐️2.9)
 <!-- GOODREADS-SHELF-LIST:END -->
