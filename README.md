@@ -14,7 +14,7 @@
 ### Currently reading
 
 <!-- GOODREADS-READING-LIST:START -->
-- [How to Tell a Story: The Essential Guide to Memorable Storytelling from The Moth](https://www.goodreads.com/review/show/6142372783?utm_medium=api&utm_source=rss) by The Moth (⭐️4.18)
+- [How to Tell a Story: The Essential Guide to Memorable Storytelling from The Moth](https://www.goodreads.com/review/show/6142372783?utm_medium=api&utm_source=rss) by The Moth (⭐️4.16)
 - [Doing it Right: The Fundamentals of Better Diving](https://www.goodreads.com/review/show/6142369940?utm_medium=api&utm_source=rss) by Jarrod Jablonski (⭐️4.24)
 <!-- GOODREADS-READING-LIST:END -->
 
