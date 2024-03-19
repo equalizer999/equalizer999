@@ -29,7 +29,7 @@
 - [A Thousand Brains: A New Theory of Intelligence](https://www.goodreads.com/review/show/5174464204?utm_medium=api&utm_source=rss) by Jeff Hawkins (⭐️4.01)
 - [Ghost in the Wires: My Adventures as the World's Most Wanted Hacker](https://www.goodreads.com/review/show/6144284199?utm_medium=api&utm_source=rss) by Kevin D. Mitnick (⭐️3.93)
 - [The Psychology of Money](https://www.goodreads.com/review/show/6144284951?utm_medium=api&utm_source=rss) by Morgan Housel (⭐️4.31)
-- [How to Talk to Anyone: 92 Little Tricks for Big Success in Relationships](https://www.goodreads.com/review/show/6144286850?utm_medium=api&utm_source=rss) by Leil Lowndes (⭐️3.72)
+- [How to Talk to Anyone: 92 Little Tricks for Big Success in Relationships](https://www.goodreads.com/review/show/6144286850?utm_medium=api&utm_source=rss) by Leil Lowndes (⭐️3.71)
 - [ANWB Cursusboek Klein Vaarbewijs I+II](https://www.goodreads.com/review/show/6144290823?utm_medium=api&utm_source=rss) by ANWB (⭐️2.9)
 <!-- GOODREADS-SHELF-LIST:END -->
 
