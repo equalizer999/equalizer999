@@ -14,7 +14,6 @@
 ### Currently reading
 
 <!-- GOODREADS-READING-LIST:START -->
-- [The Magic of Thinking Big](https://www.goodreads.com/review/show/4558276962?utm_medium=api&utm_source=rss) by David J. Schwartz (⭐️4.25)
 - [Doing it Right: The Fundamentals of Better Diving](https://www.goodreads.com/review/show/6142369940?utm_medium=api&utm_source=rss) by Jarrod Jablonski (⭐️4.24)
 <!-- GOODREADS-READING-LIST:END -->
 
