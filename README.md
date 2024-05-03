@@ -20,7 +20,7 @@
 ### Backlog - inhouse
 
 <!-- GOODREADS-SHELF-LIST:START -->
-- [The 7 Habits Of Highly Effective People](https://www.goodreads.com/review/show/6471304724?utm_medium=api&utm_source=rss) by Stephen R. Covey (⭐️4.39)
+- [The 7 Habits Of Highly Effective People](https://www.goodreads.com/review/show/6471304724?utm_medium=api&utm_source=rss) by Stephen R. Covey (⭐️4.4)
 - [TED Talks Storytelling: 23 Storytelling Techniques from the Best TED Talks](https://www.goodreads.com/review/show/6471302003?utm_medium=api&utm_source=rss) by Akash Karia (⭐️3.73)
 - [Escaping the Build Trap: How Effective Product Management Creates Real Value](https://www.goodreads.com/review/show/6246299401?utm_medium=api&utm_source=rss) by Melissa Perri (⭐️4.3)
 - [Can't Hurt Me: Master Your Mind and Defy the Odds](https://www.goodreads.com/review/show/6144285742?utm_medium=api&utm_source=rss) by David Goggins (⭐️4.33)
