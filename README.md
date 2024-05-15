@@ -17,7 +17,7 @@
 - [Doing it Right: The Fundamentals of Better Diving](https://www.goodreads.com/review/show/6142369940?utm_medium=api&utm_source=rss) by Jarrod Jablonski (⭐️4.24)
 <!-- GOODREADS-READING-LIST:END -->
 
-### Read (Latest 3)
+### Read - Latest 3
 
 <!-- GOODREADS-READ-LIST:START -->
 - [Read People Like a Book: How to Analyze, Understand, and Predict People’s Emotions, Thoughts, Intentions, and Behaviors](https://www.goodreads.com/review/show/6144288022?utm_medium=api&utm_source=rss) by Patrick King (⭐️3.49)
