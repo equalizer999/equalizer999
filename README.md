@@ -17,6 +17,11 @@
 - [Doing it Right: The Fundamentals of Better Diving](https://www.goodreads.com/review/show/6142369940?utm_medium=api&utm_source=rss) by Jarrod Jablonski (⭐️4.24)
 <!-- GOODREADS-READING-LIST:END -->
 
+### Read (Latest 3)
+
+<!-- GOODREADS-READ-LIST:START -->
+<!-- GOODREADS-READ-LIST:END -->
+
 ### Backlog - inhouse
 
 <!-- GOODREADS-SHELF-LIST:START -->
