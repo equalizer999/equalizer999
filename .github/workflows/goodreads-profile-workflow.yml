@@ -17,6 +17,13 @@ jobs:
       - uses: zwacky/goodreads-profile-workflow@main
         with:
           goodreads_user_id: "139684603"
+          shelf: "read"
+          max_books_count: 3
+          sort_by_field: "<user_read_at"
+          comment_tag_name: "GOODREADS-READ-LIST"
+      - uses: zwacky/goodreads-profile-workflow@main
+        with:
+          goodreads_user_id: "139684603"
           shelf: "backlog"
           comment_tag_name: "GOODREADS-SHELF-LIST"
           sort_by_field: ">average_rating"
