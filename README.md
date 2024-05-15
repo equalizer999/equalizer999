@@ -28,15 +28,15 @@
 ### Backlog - inhouse
 
 <!-- GOODREADS-SHELF-LIST:START -->
-- [The 7 Habits Of Highly Effective People](https://www.goodreads.com/review/show/6471304724?utm_medium=api&utm_source=rss) by Stephen R. Covey (⭐️4.4)
-- [Escaping the Build Trap: How Effective Product Management Creates Real Value](https://www.goodreads.com/review/show/6246299401?utm_medium=api&utm_source=rss) by Melissa Perri (⭐️4.3)
 - [Can't Hurt Me: Master Your Mind and Defy the Odds](https://www.goodreads.com/review/show/6144285742?utm_medium=api&utm_source=rss) by David Goggins (⭐️4.33)
 - [Hack Your Bureaucracy: Get Things Done No Matter What Your Role on Any Team](https://www.goodreads.com/review/show/5443453185?utm_medium=api&utm_source=rss) by Marina Nitze (⭐️4.17)
 - [Altruism: The Science and Psychology of Kindness](https://www.goodreads.com/review/show/6144281343?utm_medium=api&utm_source=rss) by Matthieu Ricard (⭐️4.08)
+- [The 7 Habits Of Highly Effective People](https://www.goodreads.com/review/show/6471304724?utm_medium=api&utm_source=rss) by Stephen R. Covey (⭐️4.4)
+- [Escaping the Build Trap: How Effective Product Management Creates Real Value](https://www.goodreads.com/review/show/6246299401?utm_medium=api&utm_source=rss) by Melissa Perri (⭐️4.3)
 - [Snow Crash](https://www.goodreads.com/review/show/6144282536?utm_medium=api&utm_source=rss) by Neal Stephenson (⭐️4.03)
+- [The Psychology of Money](https://www.goodreads.com/review/show/6144284951?utm_medium=api&utm_source=rss) by Morgan Housel (⭐️4.3)
 - [A Thousand Brains: A New Theory of Intelligence](https://www.goodreads.com/review/show/5174464204?utm_medium=api&utm_source=rss) by Jeff Hawkins (⭐️4.01)
 - [Ghost in the Wires: My Adventures as the World's Most Wanted Hacker](https://www.goodreads.com/review/show/6144284199?utm_medium=api&utm_source=rss) by Kevin D. Mitnick (⭐️3.93)
-- [The Psychology of Money](https://www.goodreads.com/review/show/6144284951?utm_medium=api&utm_source=rss) by Morgan Housel (⭐️4.3)
 - [How to Talk to Anyone: 92 Little Tricks for Big Success in Relationships](https://www.goodreads.com/review/show/6144286850?utm_medium=api&utm_source=rss) by Leil Lowndes (⭐️3.71)
 <!-- GOODREADS-SHELF-LIST:END -->
 
