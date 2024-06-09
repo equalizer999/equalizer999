@@ -28,7 +28,7 @@
 ### Backlog - inhouse
 
 <!-- GOODREADS-SHELF-LIST:START -->
-- [The 7 Habits Of Highly Effective People](https://www.goodreads.com/review/show/6471304724?utm_medium=api&utm_source=rss) by Stephen R. Covey (⭐️4.38)
+- [The 7 Habits Of Highly Effective People](https://www.goodreads.com/review/show/6471304724?utm_medium=api&utm_source=rss) by Stephen R. Covey (⭐️4.37)
 - [Can't Hurt Me: Master Your Mind and Defy the Odds](https://www.goodreads.com/review/show/6144285742?utm_medium=api&utm_source=rss) by David Goggins (⭐️4.33)
 - [Hack Your Bureaucracy: Get Things Done No Matter What Your Role on Any Team](https://www.goodreads.com/review/show/5443453185?utm_medium=api&utm_source=rss) by Marina Nitze (⭐️4.17)
 - [Altruism: The Science and Psychology of Kindness](https://www.goodreads.com/review/show/6144281343?utm_medium=api&utm_source=rss) by Matthieu Ricard (⭐️4.08)
