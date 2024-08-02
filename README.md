@@ -42,5 +42,14 @@
 
 ---
 
+## Podcasts
+
+|               | Spotify playlist link                                    |
+|---------------|----------------------------------------------------------|
+| **Listening** | https://open.spotify.com/playlist/638b30PqBEwrOKF8JkWUnQ |
+| **Backlog**   | https://open.spotify.com/playlist/2lp0gXv6zNz4HFbq4fuSZ2 |
+
+---
+
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=equalizer999&show_icons=true&theme=dark)
 
