@@ -34,11 +34,11 @@
 - [The Psychology of Money](https://www.goodreads.com/review/show/6144284951?utm_medium=api&utm_source=rss) by Morgan Housel (⭐️4.27)
 - [Hack Your Bureaucracy: Get Things Done No Matter What Your Role on Any Team](https://www.goodreads.com/review/show/5443453185?utm_medium=api&utm_source=rss) by Marina Nitze (⭐️4.16)
 - [Altruism: The Science and Psychology of Kindness](https://www.goodreads.com/review/show/6144281343?utm_medium=api&utm_source=rss) by Matthieu Ricard (⭐️4.08)
-- [Grit: The Power of Passion and Perseverance](https://www.goodreads.com/review/show/6660385796?utm_medium=api&utm_source=rss) by Angela Duckworth (⭐️4.07)
 - [Escaping the Build Trap: How Effective Product Management Creates Real Value](https://www.goodreads.com/review/show/6246299401?utm_medium=api&utm_source=rss) by Melissa Perri (⭐️4.3)
 - [Snow Crash](https://www.goodreads.com/review/show/6144282536?utm_medium=api&utm_source=rss) by Neal Stephenson (⭐️4.03)
 - [A Thousand Brains: A New Theory of Intelligence](https://www.goodreads.com/review/show/5174464204?utm_medium=api&utm_source=rss) by Jeff Hawkins (⭐️4.01)
 - [Ghost in the Wires: My Adventures as the World's Most Wanted Hacker](https://www.goodreads.com/review/show/6144284199?utm_medium=api&utm_source=rss) by Kevin D. Mitnick (⭐️3.93)
+- [How to Talk to Anyone: 92 Little Tricks for Big Success in Relationships](https://www.goodreads.com/review/show/6144286850?utm_medium=api&utm_source=rss) by Leil Lowndes (⭐️3.7)
 <!-- GOODREADS-SHELF-LIST:END -->
 
 ---
