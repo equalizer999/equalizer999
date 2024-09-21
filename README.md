@@ -38,7 +38,7 @@
 - [Snow Crash](https://www.goodreads.com/review/show/6144282536?utm_medium=api&utm_source=rss) by Neal Stephenson (⭐️4.02)
 - [A Thousand Brains: A New Theory of Intelligence](https://www.goodreads.com/review/show/5174464204?utm_medium=api&utm_source=rss) by Jeff Hawkins (⭐️4.01)
 - [Ghost in the Wires: My Adventures as the World's Most Wanted Hacker](https://www.goodreads.com/review/show/6144284199?utm_medium=api&utm_source=rss) by Kevin D. Mitnick (⭐️3.93)
-- [Uitbarsting (Dutch Edition)](https://www.goodreads.com/review/show/6832143824?utm_medium=api&utm_source=rss) by Michael Crichton (⭐️3.81)
+- [Uitbarsting (Dutch Edition)](https://www.goodreads.com/review/show/6832143824?utm_medium=api&utm_source=rss) by Michael Crichton (⭐️3.78)
 <!-- GOODREADS-SHELF-LIST:END -->
 
 ---
