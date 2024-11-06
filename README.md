@@ -15,7 +15,7 @@
 
 <!-- GOODREADS-READING-LIST:START -->
 - [Influencer: Building Your Personal Brand in the Age of Social Media](https://www.goodreads.com/review/show/6660362893?utm_medium=api&utm_source=rss) by Brittany Hennessy (⭐️3.66)
-- [Doing it Right: The Fundamentals of Better Diving](https://www.goodreads.com/review/show/6142369940?utm_medium=api&utm_source=rss) by Jarrod Jablonski (⭐️4.27)
+- [Doing it Right: The Fundamentals of Better Diving](https://www.goodreads.com/review/show/6142369940?utm_medium=api&utm_source=rss) by Jarrod Jablonski (⭐️4.26)
 <!-- GOODREADS-READING-LIST:END -->
 
 ### Read - Latest 3
