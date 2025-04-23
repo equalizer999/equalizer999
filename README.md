@@ -20,9 +20,9 @@
 ### Read - Latest 3
 
 <!-- GOODREADS-READ-LIST:START -->
+- [Doing it Right: The Fundamentals of Better Diving](https://www.goodreads.com/review/show/6142369940?utm_medium=api&utm_source=rss) by Jarrod Jablonski (⭐️4.22)
 - [Grit: The Power of Passion and Perseverance](https://www.goodreads.com/review/show/6660385796?utm_medium=api&utm_source=rss) by Angela Duckworth (⭐️4.07)
 - [TED Talks Storytelling: 23 Storytelling Techniques from the Best TED Talks](https://www.goodreads.com/review/show/6471302003?utm_medium=api&utm_source=rss) by Akash Karia (⭐️3.73)
-- [Read People Like a Book: How to Analyze, Understand, and Predict People’s Emotions, Thoughts, Intentions, and Behaviors](https://www.goodreads.com/review/show/6144288022?utm_medium=api&utm_source=rss) by Patrick King (⭐️3.44)
 <!-- GOODREADS-READ-LIST:END -->
 
 ### Backlog - inhouse
