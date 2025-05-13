@@ -22,8 +22,8 @@
 
 <!-- GOODREADS-READ-LIST:START -->
 - [Doing it Right: The Fundamentals of Better Diving](https://www.goodreads.com/review/show/6142369940?utm_medium=api&utm_source=rss) by Jarrod Jablonski (⭐️4.24)
+- [Influencer: Building Your Personal Brand in the Age of Social Media](https://www.goodreads.com/review/show/6660362893?utm_medium=api&utm_source=rss) by Brittany Hennessy (⭐️3.67)
 - [Grit: The Power of Passion and Perseverance](https://www.goodreads.com/review/show/6660385796?utm_medium=api&utm_source=rss) by Angela Duckworth (⭐️4.07)
-- [TED Talks Storytelling: 23 Storytelling Techniques from the Best TED Talks](https://www.goodreads.com/review/show/6471302003?utm_medium=api&utm_source=rss) by Akash Karia (⭐️3.73)
 <!-- GOODREADS-READ-LIST:END -->
 
 ### Backlog - inhouse
