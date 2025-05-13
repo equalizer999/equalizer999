@@ -14,7 +14,8 @@
 ### Currently reading
 
 <!-- GOODREADS-READING-LIST:START -->
-- [Influencer: Building Your Personal Brand in the Age of Social Media](https://www.goodreads.com/review/show/6660362893?utm_medium=api&utm_source=rss) by Brittany Hennessy (⭐️3.67)
+- [How to Talk to Anyone: 92 Little Tricks for Big Success in Relationships](https://www.goodreads.com/review/show/6144286850?utm_medium=api&utm_source=rss) by Leil Lowndes (⭐️3.68)
+- [How to Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking – for Students, Academics and Nonfiction Book Writers](https://www.goodreads.com/review/show/7562645177?utm_medium=api&utm_source=rss) by Sönke Ahrens (⭐️4.1)
 <!-- GOODREADS-READING-LIST:END -->
 
 ### Read - Latest 3
