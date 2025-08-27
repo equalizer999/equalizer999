@@ -15,7 +15,7 @@
 
 <!-- GOODREADS-READING-LIST:START -->
 - [How to Talk to Anyone: 92 Little Tricks for Big Success in Relationships](https://www.goodreads.com/review/show/6144286850?utm_medium=api&utm_source=rss) by Leil Lowndes (⭐️3.68)
-- [How to Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking – for Students, Academics and Nonfiction Book Writers](https://www.goodreads.com/review/show/7562645177?utm_medium=api&utm_source=rss) by Sönke Ahrens (⭐️4.09)
+- [How to Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking – for Students, Academics and Nonfiction Book Writers](https://www.goodreads.com/review/show/7562645177?utm_medium=api&utm_source=rss) by Sönke Ahrens (⭐️4.1)
 <!-- GOODREADS-READING-LIST:END -->
 
 ### Read - Latest 3
