@@ -22,7 +22,7 @@
 
 <!-- GOODREADS-READ-LIST:START -->
 - [Doing it Right: The Fundamentals of Better Diving](https://www.goodreads.com/review/show/6142369940?utm_medium=api&utm_source=rss) by Jarrod Jablonski (⭐️4.24)
-- [Influencer: Building Your Personal Brand in the Age of Social Media](https://www.goodreads.com/review/show/6660362893?utm_medium=api&utm_source=rss) by Brittany Hennessy (⭐️3.67)
+- [Influencer: Building Your Personal Brand in the Age of Social Media](https://www.goodreads.com/review/show/6660362893?utm_medium=api&utm_source=rss) by Brittany Hennessy (⭐️3.66)
 - [Grit: The Power of Passion and Perseverance](https://www.goodreads.com/review/show/6660385796?utm_medium=api&utm_source=rss) by Angela Duckworth (⭐️4.07)
 <!-- GOODREADS-READ-LIST:END -->
 
