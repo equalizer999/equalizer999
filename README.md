@@ -14,8 +14,7 @@
 ### Currently reading
 
 <!-- GOODREADS-READING-LIST:START -->
-- [How to Talk to Anyone: 92 Little Tricks for Big Success in Relationships](https://www.goodreads.com/review/show/6144286850?utm_medium=api&utm_source=rss) by Leil Lowndes (⭐️3.68)
-- [How to Take Smart Notes](https://www.goodreads.com/review/show/7562645177?utm_medium=api&utm_source=rss) by Sönke Ahrens (⭐️4.09)
+- [The Power of a Positive No: Save The Deal Save The Relationship and Still Say No](https://www.goodreads.com/review/show/8056553875?utm_medium=api&utm_source=rss) by William Ury (⭐️4.12)
 <!-- GOODREADS-READING-LIST:END -->
 
 ### Read - Latest 3
