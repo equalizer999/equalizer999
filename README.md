@@ -32,12 +32,12 @@
 - [The 7 Habits Of Highly Effective People](https://www.goodreads.com/review/show/6471304724?utm_medium=api&utm_source=rss) by Stephen R. Covey (⭐️4.34)
 - [Escaping the Build Trap: How Effective Product Management Creates Real Value](https://www.goodreads.com/review/show/6246299401?utm_medium=api&utm_source=rss) by Melissa Perri (⭐️4.28)
 - [The Psychology of Money](https://www.goodreads.com/review/show/6144284951?utm_medium=api&utm_source=rss) by Morgan Housel (⭐️4.27)
+- [The Power of a Positive No: Save The Deal Save The Relationship and Still Say No](https://www.goodreads.com/review/show/8056553875?utm_medium=api&utm_source=rss) by William Ury (⭐️4.12)
 - [Altruism: The Science and Psychology of Kindness](https://www.goodreads.com/review/show/6144281343?utm_medium=api&utm_source=rss) by Matthieu Ricard (⭐️4.12)
+- [Genius: The Life and Science of Richard Feynman](https://www.goodreads.com/review/show/8056551511?utm_medium=api&utm_source=rss) by James Gleick (⭐️4.11)
 - [Hack Your Bureaucracy: Get Things Done No Matter What Your Role on Any Team](https://www.goodreads.com/review/show/5443453185?utm_medium=api&utm_source=rss) by Marina Nitze (⭐️4.11)
+- [How to Take Smart Notes](https://www.goodreads.com/review/show/7562645177?utm_medium=api&utm_source=rss) by Sönke Ahrens (⭐️4.09)
 - [Can't Hurt Me: Master Your Mind and Defy the Odds](https://www.goodreads.com/review/show/6144285742?utm_medium=api&utm_source=rss) by David Goggins (⭐️4.3)
-- [Snow Crash](https://www.goodreads.com/review/show/6144282536?utm_medium=api&utm_source=rss) by Neal Stephenson (⭐️4.02)
-- [A Thousand Brains: A New Theory of Intelligence](https://www.goodreads.com/review/show/5174464204?utm_medium=api&utm_source=rss) by Jeff Hawkins (⭐️4.01)
-- [Ghost in the Wires: My Adventures as the World's Most Wanted Hacker](https://www.goodreads.com/review/show/6144284199?utm_medium=api&utm_source=rss) by Kevin D. Mitnick (⭐️3.94)
 <!-- GOODREADS-SHELF-LIST:END -->
 
 ---
