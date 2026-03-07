@@ -21,9 +21,9 @@
 ### Read - Latest 3
 
 <!-- GOODREADS-READ-LIST:START -->
+- [Armoede uitgelegd aan mensen met geld](https://www.goodreads.com/review/show/8414950243?utm_medium=api&utm_source=rss) by Tim &apos;S Jongers (⭐️4.01)
+- [The Power of a Positive No: Save The Deal Save The Relationship and Still Say No](https://www.goodreads.com/review/show/8056553875?utm_medium=api&utm_source=rss) by William Ury (⭐️4.12)
 - [18 Minutes: Find Your Focus, Master Distraction, and Get the Right Things Done](https://www.goodreads.com/review/show/7563191078?utm_medium=api&utm_source=rss) by Peter Bregman (⭐️3.8)
-- [101 Essays That Will Change The Way You Think](https://www.goodreads.com/review/show/6832144343?utm_medium=api&utm_source=rss) by Brianna Wiest (⭐️3.72)
-- [Doing it Right: The Fundamentals of Better Diving](https://www.goodreads.com/review/show/6142369940?utm_medium=api&utm_source=rss) by Jarrod Jablonski (⭐️4.21)
 <!-- GOODREADS-READ-LIST:END -->
 
 ### Backlog - inhouse
