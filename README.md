@@ -34,11 +34,11 @@
 - [Escaping the Build Trap: How Effective Product Management Creates Real Value](https://www.goodreads.com/review/show/6246299401?utm_medium=api&utm_source=rss) by Melissa Perri (⭐️4.28)
 - [The Psychology of Money: Timeless Lessons on Wealth, Greed, and Happiness](https://www.goodreads.com/review/show/6144284951?utm_medium=api&utm_source=rss) by Morgan Housel (⭐️4.26)
 - [Genius: The Life and Science of Richard Feynman](https://www.goodreads.com/review/show/8056551511?utm_medium=api&utm_source=rss) by James Gleick (⭐️4.11)
-- [Hack Your Bureaucracy: Get Things Done No Matter What Your Role on Any Team](https://www.goodreads.com/review/show/5443453185?utm_medium=api&utm_source=rss) by Marina Nitze (⭐️4.11)
 - [Altruism: The Science and Psychology of Kindness](https://www.goodreads.com/review/show/6144281343?utm_medium=api&utm_source=rss) by Matthieu Ricard (⭐️4.11)
 - [How to Take Smart Notes](https://www.goodreads.com/review/show/7562645177?utm_medium=api&utm_source=rss) by Sönke Ahrens (⭐️4.09)
 - [Scarcity: Why Having Too Little Means So Much](https://www.goodreads.com/review/show/8414965530?utm_medium=api&utm_source=rss) by Sendhil Mullainathan (⭐️4.03)
 - [Can't Hurt Me: Master Your Mind and Defy the Odds](https://www.goodreads.com/review/show/6144285742?utm_medium=api&utm_source=rss) by David Goggins (⭐️4.3)
+- [Snow Crash](https://www.goodreads.com/review/show/6144282536?utm_medium=api&utm_source=rss) by Neal Stephenson (⭐️4.02)
 <!-- GOODREADS-SHELF-LIST:END -->
 
 ---
