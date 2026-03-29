@@ -14,7 +14,7 @@
 ### Currently reading
 
 <!-- GOODREADS-READING-LIST:START -->
-- [Scarcity: Why Having Too Little Means So Much](https://www.goodreads.com/review/show/8414965530?utm_medium=api&utm_source=rss) by Sendhil Mullainathan (⭐️4.03)
+- [Scarcity: Why Having Too Little Means So Much](https://www.goodreads.com/review/show/8414965530?utm_medium=api&utm_source=rss) by Sendhil Mullainathan (⭐️4.04)
 - [Genius: The Life and Science of Richard Feynman](https://www.goodreads.com/review/show/8056551511?utm_medium=api&utm_source=rss) by James Gleick (⭐️4.11)
 <!-- GOODREADS-READING-LIST:END -->
 
