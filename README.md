@@ -22,9 +22,9 @@
 ### Read - Latest 3
 
 <!-- GOODREADS-READ-LIST:START -->
+- [Fourth Wing (The Empyrean, #1)](https://www.goodreads.com/review/show/6144289574?utm_medium=api&utm_source=rss) by Rebecca Yarros (⭐️4.54)
 - [Armoede uitgelegd aan mensen met geld](https://www.goodreads.com/review/show/8414950243?utm_medium=api&utm_source=rss) by Tim &apos;S Jongers (⭐️4.01)
-- [The Power of a Positive No: Save The Deal Save The Relationship and Still Say No](https://www.goodreads.com/review/show/8056553875?utm_medium=api&utm_source=rss) by William Ury (⭐️4.12)
-- [18 Minutes: Find Your Focus, Master Distraction, and Get the Right Things Done](https://www.goodreads.com/review/show/7563191078?utm_medium=api&utm_source=rss) by Peter Bregman (⭐️3.8)
+- [The Power of a Positive No: Save The Deal Save The Relationship and Still Say No](https://www.goodreads.com/review/show/8056553875?utm_medium=api&utm_source=rss) by William Ury (⭐️4.11)
 <!-- GOODREADS-READ-LIST:END -->
 
 ### Backlog - inhouse
