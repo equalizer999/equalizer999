@@ -24,7 +24,7 @@
 <!-- GOODREADS-READ-LIST:START -->
 - [Fourth Wing (The Empyrean, #1)](https://www.goodreads.com/review/show/6144289574?utm_medium=api&utm_source=rss) by Rebecca Yarros (⭐️4.54)
 - [Armoede uitgelegd aan mensen met geld](https://www.goodreads.com/review/show/8414950243?utm_medium=api&utm_source=rss) by Tim &apos;S Jongers (⭐️4.01)
-- [The Power of a Positive No: Save The Deal Save The Relationship and Still Say No](https://www.goodreads.com/review/show/8056553875?utm_medium=api&utm_source=rss) by William Ury (⭐️4.11)
+- [The Power of a Positive No: Save The Deal Save The Relationship and Still Say No](https://www.goodreads.com/review/show/8056553875?utm_medium=api&utm_source=rss) by William Ury (⭐️4.12)
 <!-- GOODREADS-READ-LIST:END -->
 
 ### Backlog - inhouse
