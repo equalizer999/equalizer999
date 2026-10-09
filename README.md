@@ -28,8 +28,8 @@
 
 <!-- GOODREADS-SHELF-LIST:START -->
 - [BE 2.0 (Beyond Entrepreneurship 2.0): Turning Your Business into an Enduring Great Company](https://www.goodreads.com/review/show/7563193838?utm_medium=api&utm_source=rss) by Jim Collins (⭐️4.36)
+- [The 7 Habits Of Highly Effective People](https://www.goodreads.com/review/show/6471304724?utm_medium=api&utm_source=rss) by Stephen R. Covey (⭐️4.33)
 - [Iron Flame (The Empyrean, #2)](https://www.goodreads.com/review/show/8519798540?utm_medium=api&utm_source=rss) by Rebecca Yarros (⭐️4.32)
-- [The 7 Habits Of Highly Effective People](https://www.goodreads.com/review/show/6471304724?utm_medium=api&utm_source=rss) by Stephen R. Covey (⭐️4.32)
 - [Can't Hurt Me: Master Your Mind and Defy the Odds](https://www.goodreads.com/review/show/6144285742?utm_medium=api&utm_source=rss) by David Goggins (⭐️4.29)
 - [Escaping the Build Trap: How Effective Product Management Creates Real Value](https://www.goodreads.com/review/show/6246299401?utm_medium=api&utm_source=rss) by Melissa Perri (⭐️4.27)
 - [The Psychology of Money: Timeless Lessons on Wealth, Greed, and Happiness](https://www.goodreads.com/review/show/6144284951?utm_medium=api&utm_source=rss) by Morgan Housel (⭐️4.25)
