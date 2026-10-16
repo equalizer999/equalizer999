@@ -35,7 +35,7 @@
 - [The Psychology of Money: Timeless Lessons on Wealth, Greed, and Happiness](https://www.goodreads.com/review/show/6144284951?utm_medium=api&utm_source=rss) by Morgan Housel (⭐️4.25)
 - [Altruism: The Science and Psychology of Kindness](https://www.goodreads.com/review/show/6144281343?utm_medium=api&utm_source=rss) by Matthieu Ricard (⭐️4.14)
 - [Genius: The Life and Science of Richard Feynman](https://www.goodreads.com/review/show/8056551511?utm_medium=api&utm_source=rss) by James Gleick (⭐️4.11)
-- [How to Take Smart Notes](https://www.goodreads.com/review/show/7562645177?utm_medium=api&utm_source=rss) by Sönke Ahrens (⭐️4.08)
+- [How to Take Smart Notes](https://www.goodreads.com/review/show/7562645177?utm_medium=api&utm_source=rss) by Sönke Ahrens (⭐️4.07)
 - [A Thousand Brains: A New Theory of Intelligence](https://www.goodreads.com/review/show/5174464204?utm_medium=api&utm_source=rss) by Jeff Hawkins (⭐️4.03)
 <!-- GOODREADS-SHELF-LIST:END -->
 
