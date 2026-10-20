@@ -28,6 +28,7 @@
 ### Backlog - inhouse
 
 <!-- GOODREADS-SHELF-LIST:START -->
+- [Threshing Day (The Empyrean, #3.5)](https://www.goodreads.com/review/show/9037670745?utm_medium=api&utm_source=rss) by Rebecca Yarros (⭐️4.48)
 - [BE 2.0 (Beyond Entrepreneurship 2.0): Turning Your Business into an Enduring Great Company](https://www.goodreads.com/review/show/7563193838?utm_medium=api&utm_source=rss) by Jim Collins (⭐️4.36)
 - [Iron Flame (The Empyrean, #2)](https://www.goodreads.com/review/show/8519798540?utm_medium=api&utm_source=rss) by Rebecca Yarros (⭐️4.32)
 - [The 7 Habits Of Highly Effective People](https://www.goodreads.com/review/show/6471304724?utm_medium=api&utm_source=rss) by Stephen R. Covey (⭐️4.32)
@@ -37,7 +38,6 @@
 - [Altruism: The Science and Psychology of Kindness](https://www.goodreads.com/review/show/6144281343?utm_medium=api&utm_source=rss) by Matthieu Ricard (⭐️4.14)
 - [Genius: The Life and Science of Richard Feynman](https://www.goodreads.com/review/show/8056551511?utm_medium=api&utm_source=rss) by James Gleick (⭐️4.11)
 - [How to Take Smart Notes](https://www.goodreads.com/review/show/7562645177?utm_medium=api&utm_source=rss) by Sönke Ahrens (⭐️4.07)
-- [A Thousand Brains: A New Theory of Intelligence](https://www.goodreads.com/review/show/5174464204?utm_medium=api&utm_source=rss) by Jeff Hawkins (⭐️4.03)
 <!-- GOODREADS-SHELF-LIST:END -->
 
 ---
