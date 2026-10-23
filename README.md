@@ -13,7 +13,7 @@
 ### Currently reading
 
 <!-- GOODREADS-READING-LIST:START -->
-- [In het geheim](https://www.goodreads.com/review/show/9037670060?utm_medium=api&utm_source=rss) by David Baldacci (⭐️3.6)
+- [In het geheim](https://www.goodreads.com/review/show/9037670060?utm_medium=api&utm_source=rss) by David Baldacci (⭐️3.61)
 - [Scarcity: Why Having Too Little Means So Much](https://www.goodreads.com/review/show/8414965530?utm_medium=api&utm_source=rss) by Sendhil Mullainathan (⭐️4.02)
 <!-- GOODREADS-READING-LIST:END -->
 
