@@ -20,9 +20,9 @@
 ### Read - Latest 3
 
 <!-- GOODREADS-READ-LIST:START -->
+- [In het geheim](https://www.goodreads.com/review/show/9037670060?utm_medium=api&utm_source=rss) by David Baldacci (⭐️3.61)
 - [Niemandsland (John Puller, #4)](https://www.goodreads.com/review/show/8905966524?utm_medium=api&utm_source=rss) by David Baldacci (⭐️3.86)
 - [Onyx Storm (The Empyrean, #3)](https://www.goodreads.com/review/show/8905969666?utm_medium=api&utm_source=rss) by Rebecca Yarros (⭐️4.17)
-- [Iron Flame (The Empyrean, #2)](https://www.goodreads.com/review/show/8519798540?utm_medium=api&utm_source=rss) by Rebecca Yarros (⭐️4.32)
 <!-- GOODREADS-READ-LIST:END -->
 
 ### Backlog - inhouse
