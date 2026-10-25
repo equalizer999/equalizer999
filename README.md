@@ -28,7 +28,7 @@
 ### Backlog - inhouse
 
 <!-- GOODREADS-SHELF-LIST:START -->
-- [Threshing Day (The Empyrean, #3.5)](https://www.goodreads.com/review/show/9037670745?utm_medium=api&utm_source=rss) by Rebecca Yarros (⭐️4.47)
+- [Threshing Day (The Empyrean, #3.5)](https://www.goodreads.com/review/show/9037670745?utm_medium=api&utm_source=rss) by Rebecca Yarros (⭐️4.46)
 - [BE 2.0 (Beyond Entrepreneurship 2.0): Turning Your Business into an Enduring Great Company](https://www.goodreads.com/review/show/7563193838?utm_medium=api&utm_source=rss) by Jim Collins (⭐️4.36)
 - [Iron Flame (The Empyrean, #2)](https://www.goodreads.com/review/show/8519798540?utm_medium=api&utm_source=rss) by Rebecca Yarros (⭐️4.32)
 - [The 7 Habits Of Highly Effective People](https://www.goodreads.com/review/show/6471304724?utm_medium=api&utm_source=rss) by Stephen R. Covey (⭐️4.32)
