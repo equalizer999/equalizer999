@@ -13,7 +13,7 @@
 ### Currently reading
 
 <!-- GOODREADS-READING-LIST:START -->
-- [Threshing Day (The Empyrean, #3.5)](https://www.goodreads.com/review/show/9037670745?utm_medium=api&utm_source=rss) by Rebecca Yarros (⭐️4.47)
+- [Threshing Day (The Empyrean, #3.5)](https://www.goodreads.com/review/show/9037670745?utm_medium=api&utm_source=rss) by Rebecca Yarros (⭐️4.46)
 - [Scarcity: Why Having Too Little Means So Much](https://www.goodreads.com/review/show/8414965530?utm_medium=api&utm_source=rss) by Sendhil Mullainathan (⭐️4.02)
 <!-- GOODREADS-READING-LIST:END -->
 
